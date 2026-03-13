@@ -143,5 +143,7 @@ Parabank là website demo ngân hàng trực tuyến, dùng để thực hành a
 - Tuần 8: Xây dựng framework automation (Selenium, POM, C#, NUnit).
 
 https://sthuflitedu-my.sharepoint.com/:w:/g/personal/23dh111935_st_huflit_edu_vn/IQB2MEQNi1I8TZPEjzHTRCnQAbR8g7Enibwdbolh0UbqK2w?e=scQdOd
+https://sthuflitedu-my.sharepoint.com/:x:/g/personal/23dh111935_st_huflit_edu_vn/IQDsXeaOpv5xQpTNCtQA_bF6AaDkB08FU40B3rWk3qdBgPs?e=iDBeho
+
 
 
