@@ -142,8 +142,9 @@ Parabank là website demo ngân hàng trực tuyến, dùng để thực hành a
 - File `03_Test_Scenarios.csv` mở bằng Excel để chỉnh sửa/nộp.
 - Tuần 8: Xây dựng framework automation (Selenium, POM, C#, NUnit).
 
-Word: https://sthuflitedu-my.sharepoint.com/:w:/g/personal/23dh111935_st_huflit_edu_vn/IQB2MEQNi1I8TZPEjzHTRCnQAbR8g7Enibwdbolh0UbqK2w?e=scQdOd
-Excel: https://sthuflitedu-my.sharepoint.com/:x:/g/personal/23dh111935_st_huflit_edu_vn/IQDsXeaOpv5xQpTNCtQA_bF6AaDkB08FU40B3rWk3qdBgPs?e=iDBeho
+-Word: https://sthuflitedu-my.sharepoint.com/:w:/g/personal/23dh111935_st_huflit_edu_vn/IQB2MEQNi1I8TZPEjzHTRCnQAbR8g7Enibwdbolh0UbqK2w?e=scQdOd
+
+-Excel: https://sthuflitedu-my.sharepoint.com/:x:/g/personal/23dh111935_st_huflit_edu_vn/IQDsXeaOpv5xQpTNCtQA_bF6AaDkB08FU40B3rWk3qdBgPs?e=iDBeho
 
 
 
